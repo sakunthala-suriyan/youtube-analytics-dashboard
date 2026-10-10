@@ -1,7 +1,6 @@
 # 📊 YouTube Analytics Dashboard | Power BI Project
 
-![Dashboard Preview](images/dashboard_preview.png) 
-*(Note: Replace this with your actual screenshot path)*
+![Dashboard Preview](dashboard-preview.png)
 
 A fully interactive Power BI dashboard analyzing a YouTube channel's performance across **12.4M views**, **1M+ watch hours**, **128K subscribers**, and **$28.57K revenue**.
 
