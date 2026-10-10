@@ -15,12 +15,30 @@ The dashboard is designed with a **modern, minimal, and professional aesthetic**
 Beyond visualization, this analysis uncovers actionable business intelligence:
 
 *   **💰 Revenue Optimization:** Identified that "Finance Tutorials" have a **2x higher RPM** ($4.50) than "Tech Reviews" ($2.30), suggesting a strategic content shift could boost overall revenue by ~15%.
-*   **📱 Mobile Engagement Gap:** Mobile users account for 65% of traffic but show a **15% lower retention rate**. The significant drop-off at the 2-minute mark suggests a need for shorter intros and optimized mobile formatting.
+*   ** Mobile Engagement Gap:** Mobile users account for 65% of traffic but show a **15% lower retention rate**. The significant drop-off at the 2-minute mark suggests a need for shorter intros and optimized mobile formatting.
 *   **📅 Peak Conversion Window:** Data indicates that videos published on **Thursdays at 6 PM IST** yield **30% higher subscriber conversion** compared to weekend uploads.
-*   **🌍 Geographic Value Disparity:** While Tier-1 countries (US/UK) contribute only 25% of views, they generate **60% of total revenue**, highlighting an opportunity for targeted global content strategies.
-*   **📈 Evergreen Content Stability:** Tutorial-based content continues to drive **40% of monthly views** six months post-publication, proving more stable for long-term growth than trending news topics.
+*   ** Geographic Value Disparity:** Tier-1 countries (US/UK) contribute only 25% of views but generate **60% of total revenue**, highlighting an opportunity for targeted global content strategies.
+*   ** Evergreen Content Stability:** Tutorial-based content continues to drive **40% of monthly views** six months post-publication, proving more stable for long-term growth than trending news topics.
 
-## ✨ Key Features
+## 🎥 Interactive Walkthrough
+
+Explore the dashboard's key features through this visual guide:
+
+#### 1️⃣ Main Overview & Slicers
+![Main Overview](dashboard-preview.png)
+*Filter by Device Type or Month to see real-time updates across all 12.4M views and $28.57K revenue metrics.*
+
+#### 2️⃣ Drill-Through Navigation
+![Country Detail](images/country-detail.png)
+*Right-click any country on the map → "Drill through" to see localized retention, RPM, and subscriber growth.*
+
+#### 3️⃣ Audience Retention Analysis
+![Retention Curve](images/retention-curve.png)
+*Identify drop-off points at the 2-minute mark for mobile users vs. desktop engagement patterns.*
+
+> 💡 **Try it yourself:** Download `YouTube_Analytics_Dashboard.pbix` and interact with the slicers to experience the full functionality!
+
+##  Key Features
 
 ### 📈 KPI Summary Cards
 *   **Total Views:** 12.4M
@@ -44,7 +62,7 @@ Beyond visualization, this analysis uncovers actionable business intelligence:
 *   **Slicers:** Filter by Device Type, Month (Jan–Dec), and Metric View (Subscribers vs. Retention).
 *   **Drill-Through:** Right-click any country on the map to navigate to a detailed **Country Detail Page** with localized metrics.
 
-## 🛠️ Tools & Techniques Used
+## ️ Tools & Techniques Used
 
 | Tool / Technique | Purpose |
 | :--- | :--- |
@@ -55,12 +73,13 @@ Beyond visualization, this analysis uncovers actionable business intelligence:
 | **Custom Theming** | JSON theme file for consistent YouTube-inspired branding (Red/White/Navy) |
 | **Navigation** | Bookmarks and Drill-through pages for enhanced user experience |
 
-## 📁 Repository Contents
+##  Repository Contents
 
 *   `YouTube_Analytics_Dashboard.pbix`: The main Power BI report file.
-*   `Dataset/`: Folder containing the synthetic CSV/Excel files used.
-*   `Images/`: Screenshots and GIFs of the dashboard in action.
-*   `Theme/`: Custom JSON theme file used for styling.
+*   `youtube_dashboard_dataset.xlsx`: Synthetic dataset used for the project.
+*   `Youtube analytic theme.json`: Custom JSON theme file for styling.
+*   `dashboard-preview.png`: Main overview screenshot.
+*   `images/`: Folder containing walkthrough screenshots (country detail, retention curve).
 
 ## 📚 Dataset Description
 
@@ -86,15 +105,15 @@ The dataset is **synthetic sample data** representing a YouTube channel's perfor
 
 ## 👤 Author
 
-**Sakunthala S.**  
+**Sakunthala S.**
 *Aspiring Data Analyst & Power BI Developer*
 
 *   📧 **Email:** sakunthalasuriyan992@gmail.com
 *   💼 **LinkedIn:** [linkedin.com/in/sakunthalasuriyan](https://www.linkedin.com/in/sakunthalasuriyan)
-*   💻 **GitHub:** [github.com/sakunthala-suriyan](https://github.com/sakunthala-suriyan)
+*    **GitHub:** [github.com/sakunthala-suriyan](https://github.com/sakunthala-suriyan)
 *   📍 **Location:** Salem, Tamil Nadu, India
 
-## 📄 License
+##  License
 
 This project is open-source and available for educational and portfolio purposes. Feel free to use the code and design concepts for your own learning.
 
