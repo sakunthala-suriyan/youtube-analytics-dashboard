@@ -29,11 +29,11 @@ Explore the dashboard's key features through this visual guide:
 *Filter by Device Type or Month to see real-time updates across all 12.4M views and $28.57K revenue metrics.*
 
 #### 2️⃣ Drill-Through Navigation
-![Country Detail](images/country-detail.png)
+![Country Detail](country-detail.png)
 *Right-click any country on the map → "Drill through" to see localized retention, RPM, and subscriber growth.*
 
 #### 3️⃣ Audience Retention Analysis
-![Retention Curve](images/retention-curve.png)
+![Retention Curve](retention-curve.png)
 *Identify drop-off points at the 2-minute mark for mobile users vs. desktop engagement patterns.*
 
 > 💡 **Try it yourself:** Download `YouTube_Analytics_Dashboard.pbix` and interact with the slicers to experience the full functionality!
